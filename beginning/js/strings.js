@@ -16,14 +16,17 @@
 
 //STEP 4
 // let txtApp = 'The quick brown fox jumps over the lazy dog'
+// alert(txtApp.indexOf('fox'))
 
 
 //STEP 5
+// let txtApp = 'The quick brown fox jumps over the lazy fox'
+// alert(txtApp.lastIndexOf('fox'))
 
 //STEP 6
-let txtApp = 'The quick brown fox jumps over the lazy dog'
-let urName = prompt("What is your name?")
-alert(`${txtApp.replace('the lazy dog', urName)}`)
+// let txtApp = 'The quick brown fox jumps over the lazy dog'
+// let urName = prompt("What is your name?")
+// alert(`${txtApp.replace('the lazy dog', urName)}`)
 
 //STEP 7
 
